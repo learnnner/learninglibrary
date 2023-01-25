@@ -224,3 +224,5 @@ function handletitleclick() {
     h1.style.color = newcolor;
 }
 h1.addEventListener("click", handletitleclick);
+
+consol.log("test")
